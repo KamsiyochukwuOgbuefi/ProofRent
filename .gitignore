@@ -1,0 +1,10 @@
+devpost/learner-profile.md
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+/.agents/
+/.claude/
+/agent/
+/skills-lock.json
